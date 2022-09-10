@@ -62,3 +62,7 @@ input[type="text"] {
 #cut{
     background-color: seagreen;
 }
+#credit{
+    color: black;
+    font-size: small;
+}
